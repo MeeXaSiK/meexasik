@@ -2,6 +2,8 @@
 
 ## Hi! I'm Unity Developer
 
+[![CV](https://img.shields.io/badge/-CV_Night_Train_Code-090909?style=for-the-badge&logo=GoogleMessages)](https://docs.google.com/document/d/1y0oRrCxb-SUxmhspFdCronjvmBU7Br9Z_2aoc7W-x68/edit?usp=sharing)
+
 ### Technology Stack
 
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity)
