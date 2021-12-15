@@ -11,6 +11,7 @@
 ![Rider](https://img.shields.io/badge/-Rider-090909?style=for-the-badge&logo=rider&logoColor=FF8F2D)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=007DFF)
 ![Adobe Premiere](https://img.shields.io/badge/-Adobe_Premiere_Pro-090909?style=for-the-badge&logo=adobepremierepro&logoColor=FF50A8)
+![Blender](https://img.shields.io/badge/-Blender-090909?style=for-the-badge&logo=blender&logoColor=F4CA16)
 
 ### Follow Me
 
