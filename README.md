@@ -20,6 +20,7 @@
 ### Games I Worked On
 
 [![Weapon Royal](https://img.shields.io/badge/-Weapons_Royal-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=weapon.royal.shot)
+[![Fly Slice](https://img.shields.io/badge/-Fly_Slice-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=fly.slice.boy)
 [![Perfect Shift!](https://img.shields.io/badge/-Perfect_Shift!-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=perfect.shift.race)
 [![Sand Balls 2048](https://img.shields.io/badge/-2048_Sand_Balls-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=sand.balls.merging)
 [![Pocket Hero](https://img.shields.io/badge/-Pocket_Hero-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.RoyalBytes.WarCraft.io)
