@@ -21,6 +21,7 @@
 
 [![Gum_Hero](https://img.shields.io/badge/-Gum_Hero-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=gum.hero.lab)
 [![Weapon Royal](https://img.shields.io/badge/-Weapons_Royal-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=weapon.royal.shot)
+[![Stickman Math Wars](https://img.shields.io/badge/-Stickman_Math_Wars-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=stickman.math.bigwars)
 [![Fly Slice](https://img.shields.io/badge/-Fly_Slice-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=fly.slice.boy)
 [![Water Connect](https://img.shields.io/badge/-Water_Connect-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=water.connect.aqueduct)
 [![Perfect Shift!](https://img.shields.io/badge/-Perfect_Shift!-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=perfect.shift.race)
