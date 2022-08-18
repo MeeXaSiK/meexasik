@@ -31,13 +31,12 @@
 [![Balls vs Blocks](https://img.shields.io/badge/-Balls_Vs_Blocks-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=blocks.breaker.game)
 [![Football Bouncer](https://img.shields.io/badge/-Football_Bouncer-090909?style=for-the-badge&logo=YouTube)](https://youtu.be/Nc-y-FNjx8s)
 
-### My GitHub Projects
+### My Favorite GitHub Projects
 
 [![MonoCache](https://img.shields.io/badge/-MonoCache-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/MonoCache)
 [![NightPool](https://img.shields.io/badge/-NightPool-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/NightPool)
-[![NightAttributes](https://img.shields.io/badge/-Attributes-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/NightAttributes)
-[![NightStateMachine](https://img.shields.io/badge/-StateMachine-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/NightStateMachine)
 [![NightSingleton](https://img.shields.io/badge/-Singleton-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/NightSingleton)
+[![NightAttributes](https://img.shields.io/badge/-Attributes-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/NightAttributes)
 
 ### Follow Me
 
