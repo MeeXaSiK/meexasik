@@ -15,7 +15,7 @@
 
 ### My Own Games
 
-[![Stanislav: Bob's Mistake](https://img.shields.io/badge/-STANISLAV:_BOB'S_MISTAKE-090909?style=for-the-badge&logo=YouTubeGaming)](https://www.youtube.com/watch?v=ThQ_kbMKN1s)
+[![Stanislav: Bob's Mistake](https://img.shields.io/badge/-STANISLAV:_BOB'S_MISTAKE-090909?style=for-the-badge&logo=YouTubeGaming)](https://nettle-scraper-118.notion.site/Stanislav-Bob-s-Mistake-deb5d580ccd34455a0bf3b9dea2986c8)
 
 ### Games I Worked On
 
