@@ -32,7 +32,7 @@
 [![Balls vs Blocks](https://img.shields.io/badge/-Balls_Vs_Blocks-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=blocks.breaker.game)
 [![Football Bouncer](https://img.shields.io/badge/-Football_Bouncer-090909?style=for-the-badge&logo=YouTube)](https://youtu.be/Nc-y-FNjx8s)
 
-### My Favorite GitHub Projects
+### My Open Source GitHub Projects
 
 [![MonoCache](https://img.shields.io/badge/-MonoCache-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/MonoCache)
 [![NightPool](https://img.shields.io/badge/-NightPool-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/NightPool)
