@@ -19,16 +19,17 @@
 
 ### Games I Worked On
 
+[![Pocket Hero](https://img.shields.io/badge/-Pocket_Hero-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.RoyalBytes.WarCraft.io)
 [![Gum_Hero](https://img.shields.io/badge/-Gum_Hero-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=gum.hero.lab)
 [![Weapon Royal](https://img.shields.io/badge/-Weapons_Royal-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=weapon.royal.shot)
 [![Stickman Math Wars](https://img.shields.io/badge/-Stickman_Math_Wars-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=stickman.math.bigwars)
 [![Fly Slice](https://img.shields.io/badge/-Fly_Slice-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=fly.slice.boy)
 [![Truck Simulator](https://img.shields.io/badge/-Truck_Simulator-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=truck.drive3d.simulator)
 [![Water Connect](https://img.shields.io/badge/-Water_Connect-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=water.connect.aqueduct)
+[![Shoot Boss Kick Him Out](https://img.shields.io/badge/-Shoot_Boss_Kick_Him_Out-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=shoot.boss.kick.himout3d)
 [![Perfect Shift!](https://img.shields.io/badge/-Perfect_Shift!-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=perfect.shift.race)
 [![Sand Balls 2048](https://img.shields.io/badge/-2048_Sand_Balls-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=sand.balls.merging)
 [![Balloon Pop](https://img.shields.io/badge/-Balloon_Pop-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=balloon.pop.saw)
-[![Pocket Hero](https://img.shields.io/badge/-Pocket_Hero-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.RoyalBytes.WarCraft.io)
 [![Balls vs Blocks](https://img.shields.io/badge/-Balls_Vs_Blocks-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=blocks.breaker.game)
 [![Football Bouncer](https://img.shields.io/badge/-Football_Bouncer-090909?style=for-the-badge&logo=YouTube)](https://youtu.be/Nc-y-FNjx8s)
 
@@ -37,9 +38,9 @@
 [![MonoCache](https://img.shields.io/badge/-MonoCache-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/MonoCache)
 [![NightPool](https://img.shields.io/badge/-NightPool-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/NightPool)
 [![FiniteStateMachine](https://img.shields.io/badge/-Finite_State_Machine-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/ContextStateMachine)
-[![GlobalStateMachine](https://img.shields.io/badge/-Global_State_Machine-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/GlobalStateMachine)
-[![OverlapSugar](https://img.shields.io/badge/-OverlapSugar-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/OverlapSugar)
 [![Singleton](https://img.shields.io/badge/-Singleton-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/NightSingleton)
+[![OverlapSugar](https://img.shields.io/badge/-OverlapSugar-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/OverlapSugar)
+[![GlobalStateMachine](https://img.shields.io/badge/-Global_State_Machine-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/GlobalStateMachine)
 
 ### Follow Me
 
