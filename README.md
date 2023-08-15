@@ -36,11 +36,10 @@
 
 [![MonoCache](https://img.shields.io/badge/-MonoCache-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/MonoCache)
 [![NightPool](https://img.shields.io/badge/-NightPool-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/NightPool)
-[![ContextStateMachine](https://img.shields.io/badge/-ContextStateMachine-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/ContextStateMachine)
-[![GlobalStateMachine](https://img.shields.io/badge/-GlobalStateMachine-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/GlobalStateMachine)
+[![FiniteStateMachine](https://img.shields.io/badge/-Finite_State_Machine-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/ContextStateMachine)
+[![GlobalStateMachine](https://img.shields.io/badge/-Global_State_Machine-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/GlobalStateMachine)
 [![OverlapSugar](https://img.shields.io/badge/-OverlapSugar-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/OverlapSugar)
-[![NightSingleton](https://img.shields.io/badge/-Singleton-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/NightSingleton)
-[![NightAttributes](https://img.shields.io/badge/-Attributes-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/NightAttributes)
+[![Singleton](https://img.shields.io/badge/-Singleton-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/MeeXaSiK/NightSingleton)
 
 ### Follow Me
 
