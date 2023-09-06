@@ -2,7 +2,7 @@
 
 ## Hi! I'm Unity Developer
 
-[![CV](https://img.shields.io/badge/-CV_Night_Train_Code-090909?style=for-the-badge&logo=GoogleMessages)](https://nettle-scraper-118.notion.site/Night-Train-Code-Certain-View-70529c9b875945409b20b3c29f091408)
+[![CV](https://img.shields.io/badge/-CV_Night_Train_Code-090909?style=for-the-badge&logo=GoogleMessages)](https://www.notion.so/nighttraincode/Night-Train-Code-Certain-View-70529c9b875945409b20b3c29f091408?pvs=4)
 
 ### Technology Stack
 
