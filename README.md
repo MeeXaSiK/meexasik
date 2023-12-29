@@ -19,6 +19,7 @@
 
 ### Games I Worked On
 
+[![Harvest Havoc](https://img.shields.io/badge/-Harvest_Havoc-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=digital.vim.harvesthavoc)
 [![Pocket Hero](https://img.shields.io/badge/-Pocket_Hero-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.RoyalBytes.WarCraft.io)
 [![Gum_Hero](https://img.shields.io/badge/-Gum_Hero-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=gum.hero.lab)
 [![Weapon Royal](https://img.shields.io/badge/-Weapons_Royal-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=weapon.royal.shot)
